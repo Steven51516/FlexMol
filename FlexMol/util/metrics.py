@@ -118,7 +118,7 @@ def pcc(y_true, y_pred):
 class Evaluator:
     """Evaluator to evaluate predictions"""
     
-    min_metrics = {"mse", "rmse", "mae"}
+    min_metrics = {"mse", "rmse", "mae", "loss"}
 
     def __init__(self):
         self.metric_functions = {
