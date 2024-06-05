@@ -23,7 +23,7 @@ FlexMol offers several unique features:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/flexmol.git
+   git clone https://github.com/Steven51516/FlexMol.git
    cd flexmol
    ```
 
